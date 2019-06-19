@@ -1,0 +1,35 @@
+body{
+    background-image: url("../img/xxxxx.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+form{
+    text-align: center;
+    padding: 2%;
+}
+
+.con{
+padding:0%;
+}
+
+h1 a{
+    text-decoration: none;
+    color: black;
+}
+
+input[type="submit"]{ 
+    margin-top: 7%;
+    padding: 7%;
+    padding-left: 35%;
+    padding-right: 35%;
+    border-radius: 2px;
+    background: rgba(255, 255, 255, 0.774);
+    border:2px solid rgba(255, 0, 0, 0) ;
+
+}
+
+input[type="submit"]:hover{
+    background: rgb(8, 153, 179);    
+}

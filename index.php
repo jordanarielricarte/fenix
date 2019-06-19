@@ -181,7 +181,6 @@
 
 
 
-		<img id="anuncio" src="img/increible2.png">
 
 		<!-- SECTION -->
 		<div class="section">
